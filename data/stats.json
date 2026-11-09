@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-11-09",
   "totals": {
     "repos": 21,
-    "stars": 1045,
-    "contributors": null
+    "stars": 1048,
+    "contributors": 72
   },
   "starsByMonth": [],
   "repos": {
     "Causal-Inference-with-Python": {
-      "stars": 482,
-      "pushed": "2026-10-19T10:27:54Z"
+      "stars": 481,
+      "pushed": "2026-10-31T04:05:49Z"
     },
     "python-causality-handbook": {
       "stars": 2,
@@ -21,7 +21,7 @@
     },
     "CausalInferenceLab.github.io": {
       "stars": 36,
-      "pushed": "2026-10-19T13:52:40Z"
+      "pushed": "2026-11-09T02:46:15Z"
     },
     "causal-inference-in-python-code": {
       "stars": 58,
@@ -64,7 +64,7 @@
       "pushed": "2025-05-14T14:07:31Z"
     },
     "Lang2SQL": {
-      "stars": 141,
+      "stars": 140,
       "pushed": "2026-07-25T05:15:14Z"
     },
     "causal-inference-with-causalML": {
@@ -76,20 +76,20 @@
       "pushed": "2026-02-02T08:33:15Z"
     },
     "causal-studio": {
-      "stars": 15,
-      "pushed": "2026-10-19T13:11:45Z"
+      "stars": 16,
+      "pushed": "2026-10-28T01:09:48Z"
     },
     "ccwr": {
       "stars": 3,
       "pushed": "2026-08-20T21:43:01Z"
     },
     "data-still-does-not-speak": {
-      "stars": 3,
+      "stars": 4,
       "pushed": "2026-10-17T13:27:33Z"
     },
     "policy-effect-analytics-agent": {
-      "stars": 7,
-      "pushed": "2026-10-19T05:39:34Z"
+      "stars": 10,
+      "pushed": "2026-11-08T02:49:41Z"
     }
   }
 }
