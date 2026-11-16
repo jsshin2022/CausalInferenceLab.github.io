@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "totals": {
     "repos": 21,
-    "stars": 1048,
-    "contributors": 72
+    "stars": 1049,
+    "contributors": 73
   },
   "starsByMonth": [],
   "repos": {
     "Causal-Inference-with-Python": {
-      "stars": 481,
+      "stars": 482,
       "pushed": "2026-10-31T04:05:49Z"
     },
     "python-causality-handbook": {
@@ -21,7 +21,7 @@
     },
     "CausalInferenceLab.github.io": {
       "stars": 36,
-      "pushed": "2026-11-09T02:46:15Z"
+      "pushed": "2026-11-16T01:05:40Z"
     },
     "causal-inference-in-python-code": {
       "stars": 58,
@@ -65,7 +65,7 @@
     },
     "Lang2SQL": {
       "stars": 140,
-      "pushed": "2026-07-25T05:15:14Z"
+      "pushed": "2026-11-14T14:15:30Z"
     },
     "causal-inference-with-causalML": {
       "stars": 27,
@@ -73,7 +73,7 @@
     },
     "awesome-causal-inference-python": {
       "stars": 9,
-      "pushed": "2026-02-02T08:33:15Z"
+      "pushed": "2026-11-13T11:29:42Z"
     },
     "causal-studio": {
       "stars": 16,
